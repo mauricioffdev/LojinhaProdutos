@@ -22,7 +22,8 @@ Imagens centralizadas e layout ajustado para melhor visualização
 📚 Objetivo
 Este projeto foi desenvolvido com fins acadêmicos, visando aplicar conceitos de desenvolvimento web, manipulação de DOM com JavaScript e uso de frameworks CSS.
 
-📦 Instalação
+📦 Instalação  
+
 Clone o repositório:  
 
 bash  
