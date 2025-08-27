@@ -24,7 +24,6 @@ Este projeto foi desenvolvido com fins acadêmicos, visando aplicar conceitos de
 
 📦 Instalação
 Clone o repositório:
-
 bash
 git clone https://github.com/seu-usuario/lojinha-online.git
 Acesse a pasta do projeto:
