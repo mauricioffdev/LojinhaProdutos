@@ -28,7 +28,7 @@ Clone o repositório:
 
 bash  
 
-git clone https://github.com/mauricioffdev/lojinha-online.git  
+git clone https://github.com/mauricioffdev/LojinhaProdutos  
 
 Acesse a pasta do projeto:
 
