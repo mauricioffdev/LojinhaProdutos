@@ -23,13 +23,18 @@ Imagens centralizadas e layout ajustado para melhor visualização
 Este projeto foi desenvolvido com fins acadêmicos, visando aplicar conceitos de desenvolvimento web, manipulação de DOM com JavaScript e uso de frameworks CSS.
 
 📦 Instalação
-Clone o repositório: 
-bash 
-git clone https://github.com/seu-usuario/lojinha-online.git 
+Clone o repositório:  
+
+bash  
+
+git clone https://github.com/seu-usuario/lojinha-online.git  
+
 Acesse a pasta do projeto:
 
-bash 
-cd lojinha-online 
+bash  
+
+cd lojinha-online  
+
 Abra o arquivo index.html em seu navegador.
 
 🧪 Como usar
