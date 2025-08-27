@@ -37,7 +37,8 @@ cd lojinha-online
 
 Abra o arquivo index.html em seu navegador.
 
-🧪 Como usar
+🧪 Como usar  
+
 Navegue pela página e visualize os produtos disponíveis.
 
 Clique nos botões “Adicionar” para incluir produtos no carrinho.
