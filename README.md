@@ -21,3 +21,25 @@ Imagens centralizadas e layout ajustado para melhor visualização
 
 📚 Objetivo
 Este projeto foi desenvolvido com fins acadêmicos, visando aplicar conceitos de desenvolvimento web, manipulação de DOM com JavaScript e uso de frameworks CSS.
+
+📦 Instalação
+Clone o repositório:
+
+bash
+git clone https://github.com/seu-usuario/lojinha-online.git
+Acesse a pasta do projeto:
+
+bash
+cd lojinha-online
+Abra o arquivo index.html em seu navegador:
+
+🧪 Como usar
+Navegue pela página e visualize os produtos disponíveis.
+
+Clique nos botões “Adicionar” para incluir produtos no carrinho.
+
+Use os botões “Remover” para retirar itens.
+
+O valor total será atualizado automaticamente com base nos produtos selecionados.
+
+O layout se adapta a diferentes tamanhos de tela, graças ao uso do Bootstrap.
